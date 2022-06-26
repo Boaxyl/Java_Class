@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a571675-f8ce-48d8-896d-dec3326bf37f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment_Java_WeekOne.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Area_Perimeter_Of_A_Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Avg_Array_Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Expression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multiple_Num_Op.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multiplication_Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sum.java" afterDir="false" />
+    <list default="true" id="0a571675-f8ce-48d8-896d-dec3326bf37f" name="Changes" comment="Assignm">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Avg_Array_Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Avg_Array_Element.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +32,12 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Boaxyl/IdeaProjects/Practise&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.customizations&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -52,7 +45,7 @@
       <recent name="C:\Users\Boaxyl\IdeaProjects\Assignment_Java_WeekOne\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Multiple_Num_Op">
+  <component name="RunManager" selected="Application.Avg_Array_Element">
     <configuration name="Area_Perimeter_Of_A_Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Area_Perimeter_Of_A_Circle" />
       <module name="Assignment_Java_WeekOne" />
@@ -90,10 +83,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Avg_Array_Element" />
         <item itemvalue="Application.Multiple_Num_Op" />
         <item itemvalue="Application.Area_Perimeter_Of_A_Circle" />
         <item itemvalue="Application.Multiplication_Table" />
-        <item itemvalue="Application.Avg_Array_Element" />
         <item itemvalue="Application.Sum" />
       </list>
     </recent_temporary>
@@ -107,6 +100,14 @@
       <option name="presentableId" value="Default" />
       <updated>1655979145569</updated>
     </task>
+    <task id="LOCAL-00001" summary="Assignm">
+      <created>1656024368040</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656024368040</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,6 +120,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Assignm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignm" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
